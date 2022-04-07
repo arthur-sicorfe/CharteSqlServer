@@ -39,7 +39,7 @@ Les colonnes sont nommées en Pascal Case au singulier.
    La contrainte s'écrit : AK_NomTable_NomColonne
    > AK_Utilisateur_Email
 
-### Procédure Stockées
+### Procédure Stockée
 Les procédures stockées sont nommées avec le préfixe : usp (User-defined Stored Procedures) en Pascal Case.  
 > uspCalculerAbsences 
 
